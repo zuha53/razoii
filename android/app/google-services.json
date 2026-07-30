@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454237321062",
+    "project_id": "razoii",
+    "storage_bucket": "razoii.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454237321062:android:d86a5597e552db11587aa7",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzj5-65cnGyuDwaoNzKoQohpvZNDvFA9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454237321062:android:499fe2a1266fa7db587aa7",
+        "android_client_info": {
+          "package_name": "com.razoii.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzj5-65cnGyuDwaoNzKoQohpvZNDvFA9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
